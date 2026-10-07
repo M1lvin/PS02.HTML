@@ -1,0 +1,5 @@
+The client–server model is the foundational architecture that enables me to access and view webpages on the Internet. In this model, my web browser acts as the client, while a remote computer hosting the website functions as the server.
+
+When I enter a URL into the browser, the client sends an HTTP request over the network. The server receives this request, processes it, and retrieves the necessary files—such as HTML structure, CSS styling, JavaScript code, and media assets. The server then transmits these resources back to my browser via an HTTP response.
+
+Finally, my browser parses these files and renders them into an interactive visual webpage. This separation of responsibilities allows my local device to remain lightweight while leveraging powerful remote servers to handle database storage, computational operations, and content distribution efficiently.
